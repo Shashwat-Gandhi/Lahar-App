@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371399411851",
+    "project_id": "baii-c8a24",
+    "storage_bucket": "baii-c8a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371399411851:android:7e7d26c63ab30a256cac8e",
+        "android_client_info": {
+          "package_name": "com.stressbustersgames.lahar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371399411851-dkgga3tc3q8v80d5v333u59nirmhh094.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_BYQs0ZSuRErrIOXfPnx-rHY4YDeiWxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371399411851-dkgga3tc3q8v80d5v333u59nirmhh094.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
