@@ -260,7 +260,7 @@ class _HomeViewState extends State<HomeView> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: WebView(
-        initialUrl: "https://www.baii-c8a24.web.app",
+        initialUrl: "https://baii-c8a24.web.app",
         javascriptMode: JavascriptMode.unrestricted,
         javascriptChannels: Set.from([
           JavascriptChannel(name: 'flutter_bridge', onMessageReceived: (JavascriptMessage message) {
